@@ -23,4 +23,4 @@ async def dato(event):
 - Dev: @RR9R7
   """,
     )
-    await event.edit("احاا")
+    await event.edit("تتحمل")
